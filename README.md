@@ -5,9 +5,11 @@ This is a simple script to set up my development environment for Mac and Linux. 
 <code>
 git checkout git@github.com:xlou/setupmydev.git
 </code>
+
 <code>
 cd setupmydev
 </code>
+
 <code>
 bash ./setupmydev.sh
 </code>
