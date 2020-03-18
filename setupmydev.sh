@@ -17,6 +17,7 @@ echo '' >> $BASH_FILE
 echo 'alias venv="source venv/bin/activate"' >> $BASH_FILE
 echo 'alias gcam="git commit -am"' >> $BASH_FILE
 echo 'alias gfo="git fetch origin"' >> $BASH_FILE
+echo 'alias gpo="git pull origin"' >> $BASH_FILE
 echo 'alias gpom="git push origin master"' >> $BASH_FILE
 
 echo '' >> $BASH_FILE
